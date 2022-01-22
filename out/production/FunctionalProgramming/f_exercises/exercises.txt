@@ -1,0 +1,9 @@
+Ejercicios Lambda
+1. Crear una función anónima que nos permita calcular el promedio de un arreglo de números enteros.
+2. Crear una función anónima que calcule el factorial dado un número entero.
+3. Crear una función anónima que permita conocer si un número es par.
+4. Dado un arreglo de números enteros, crear una función anónima que retorne el número mayor.
+5. Dado un arreglo de números enteros, crear una función anónima que retorne el número menor.
+6. Dado un arreglo de números enteros, crear una función anónima que retorne el número que más se repite.
+7. Crear una función anónima que reciba como parámetro 3 numeros enteros. La función retorna el número mayor.
+8. Crear una función anónima que reciba dos parámetros, un string y un numero entero. La función retorna un string el cual será el resultado de multiplicar ambos parámetros.
